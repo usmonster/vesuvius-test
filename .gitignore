@@ -11,3 +11,6 @@ vesuvius/mod/dpa/bin/*
 .idea
 .htaccess
 www/.htaccess
+
+# Keep empty directories:
+# Keep empty directories: >> .gitignore/.git*
